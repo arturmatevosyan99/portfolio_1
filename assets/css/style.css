@@ -39,6 +39,7 @@ body {
   color: #777; }
 
 * {
+  outline:none;
   margin: 0;
   padding: 0;
   -webkit-box-sizing: border-box;
